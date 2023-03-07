@@ -1,0 +1,6 @@
+mirror01.komogoto.com is a mirror server operated by the non-profit organization Komogoto based in France, a country of the European Union. The server is located in Paris, France in a Scaleway datacenter.
+It is a free software mirror server that respects your privacy.
+All content is updated from the official source mirrors of each project with an interval of 4 hours.
+The mirror01.komogoto.com folders are accessible via https and Rsync.
+Apache and Rsync logs of client requests are only kept for 24 hours and do not record user IP addresses. The logs are only accessible to Komogoto administrators involved in this project. These logs are only collected to ensure the proper functioning of the mirror and will not be shared with others outside the organization, unless there is a legal request for the logs which we are not free to refuse.
+If you have any questions about this mirror, please contact us at hello@komogoto.com.
